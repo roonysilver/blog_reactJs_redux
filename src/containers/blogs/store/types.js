@@ -1,0 +1,15 @@
+export const Blog_Create_Type = "@Blog/Create";
+export const Blog_Create_Success_Type = "@Blog/Create/Success";
+export const Blog_Create_Error_Type = "@Blog/Create/Error";
+export const Blog_Update_Type = "@Blog/Update";
+export const Blog_Update_Success_Type = "@Blog/Update/Success";
+export const Blog_Update_Error_Type = "@Blog/Update/Error";
+export const Blog_Delete_Type = "@Blog/Delete";
+export const Blog_Delete_Success_Type = "@Blog/Delete/Success";
+export const Blog_Delete_Error_Type = "@Blog/Delete/Error";
+export const Blog_Fetch_List_Type = "@Blog/FetchList";
+export const Blog_Fetch_List_Success_Type = "@Blog/FetchList/Success";
+export const Blog_Fetch_List_Error_Type = "@Blog/FetchList/Error";
+export const Blog_Fetch_Item_Type = "@Blog/FetchItem";
+export const Blog_Fetch_Item_Success_Type = "@Blog/FetchItem/Success";
+export const Blog_Fetch_Item_Error_Type = "@Blog/FetchItem/Error";
